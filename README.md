@@ -4,9 +4,9 @@
 ### Algumas Observações Durante a Construção do Código:
 * Conhecia tanto Selenium e BeautifulSoup, porém nunca havia trabalhado a fundo com ambos.
   * Então eu basicamente fiquei da hora que recebi o desafio 09:00 da manhã 25/01 às 21:06 25/01 estudando e tentando resolver.
-  * Então foi um desafio muito legal, consegui desenvolver com bastante esforço um código legal acredito eu.
+  * Então foi um desafio muito interessante, consegui desenvolver com bastante esforço um código legal acredito eu.
   * Aprendi bastante, tive que aprender a utilizar as bibliotecas, lendo a documentação, vídeos.
-* Tenho muito a aprender e a me desenvolver ainda com certeza.
+* Tenho muito a aprender e a me desenvolver ainda sem dúvidas.
 * Com certeza tem maneiras melhores de resolver o desafio, mas no momento, da forma que fiz, resolveu.
 
 ## Vamos ao Desafio:
