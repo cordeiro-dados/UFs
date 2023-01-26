@@ -15,7 +15,7 @@
 >tentei realizar primeiro somente com Selenium, então fui atrás da documentação e vídeos, mas me deparava sempre com algum problema, para encontrar os elementos HTML, posteriormente fui tentar com o BeatifulSoup, encontrei problemas diferentes, já na manipução da página, identificar quantidade de páginas etc...
 >Então vi que conseguia integrar as duas bibliotecas, foi onde aos poucos fui conseguindo realizar os passos para acessar toda a informação referente a cada UF.
 
->Para resolver por exemplo a questão do webdriver, no caso do chrome, ao invés de ter que baixar o driver localmente, deixei de forma dinâmica, para não ter que ficar fazendo manualmente, visto que já tenho um ambiente só para isso, fica mais fácil, pois então é rodar o código, que já identifica a versão do navegador utilizado. A solução para esta situação foi utilizando as seguintes bibliotecas:
+>Para resolver, por exemplo, a questão do webdriver, no caso do chrome, ao invés de ter que baixar o driver localmente, deixei de forma dinâmica, para não ter que ficar fazendo manualmente, visto que já tenho um ambiente só para isso, fica mais fácil, pois então é rodar o código, que já identifica a versão do navegador utilizado. A solução para esta situação foi utilizando as seguintes bibliotecas:
 ```py
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
